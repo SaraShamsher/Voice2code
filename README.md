@@ -1,1 +1,2 @@
 # Voice2code
+In this repository you will find 'arith_audio' which is a code written in python to write code using sppech recognition. It's a basic code where you can perform printing statements, looping commands, assignment operations, arithmetic operations and few others all using your voice. All commands given as an input to the code will result in writing a code in python. This is an experiment to make coding easy using one's voice.
